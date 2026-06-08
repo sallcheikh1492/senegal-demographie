@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Démographie & conditions de vie au Sénégal (1986–2023) — Données réelles DHS</title>
+<meta name="description" content="Transition démographique du Sénégal (EDS/DHS + Banque mondiale) : fécondité, mortalité infantile, pauvreté, disparités régionales, projection.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="tealine"></div>
+
+<header class="hero">
+  <div class="wrap">
+    <h1>Démographie &amp; conditions de vie au Sénégal</h1>
+    <p class="sub">Projet <b>Data Analytics</b> sur <b>données 100 % réelles</b> :
+       enquêtes <b>EDS/DHS</b> (avec l'ANSD) et <b>Banque mondiale</b> — transition
+       démographique, santé, pauvreté et disparités régionales (1986–2023).</p>
+    <div class="badges">
+      <span class="badge">✅ Données réelles</span>
+      <span class="badge">👶 DHS / EDS (API)</span>
+      <span class="badge">🌍 Banque mondiale (API)</span>
+      <span class="badge">🗺️ 14 régions cartographiées</span>
+      <span class="badge">📈 Projection 2035</span>
+    </div>
+    <div class="cta">
+      <a class="btn primary" id="repoBtn" href="#" target="_blank">⭐ Code sur GitHub</a>
+      <a class="btn ghost" href="#dashboard">Voir les analyses ↓</a>
+    </div>
+  </div>
+</header>
+
+<section id="kpi">
+  <div class="wrap">
+    <h2>Résultats clés (réels)</h2>
+    <p class="lead">Indicateurs officiels EDS/DHS &amp; Banque mondiale.</p>
+    <div class="kpis" id="kpiGrid"></div>
+    <div class="note">
+      <b>Sources réelles &amp; transparence.</b> Indicateurs <b>DHS/EDS</b>
+      (api.dhsprogram.com, enquêtes menées avec l'ANSD) et <b>API Banque mondiale</b>,
+      téléchargés par <code>scripts/download_data.py</code>. Les microdonnées
+      EHCVM/RGPH (inscription requise) ne sont pas utilisées directement.
+    </div>
+  </div>
+</section>
+
+<section id="dashboard" style="background:#eef3f9">
+  <div class="wrap">
+    <h2>Tableau de bord interactif</h2>
+    <p class="lead">Graphiques alimentés par les données réelles du projet.</p>
+
+    <div class="card">
+      <h3>Transition démographique — fécondité (1986→2023)</h3>
+      <p class="cap">Indice synthétique de fécondité (enfants/femme), EDS.</p>
+      <canvas id="chartTFR" height="110"></canvas>
+    </div>
+
+    <div class="grid2">
+      <div class="card">
+        <h3>Recul de la mortalité des enfants</h3>
+        <p class="cap">Décès pour 1 000 naissances vivantes (EDS).</p>
+        <canvas id="chartMort" height="220"></canvas>
+      </div>
+      <div class="card">
+        <h3>Fécondité par région (EDS 2023)</h3>
+        <p class="cap">Enfants/femme.</p>
+        <canvas id="chartReg" height="220"></canvas>
+      </div>
+    </div>
+
+    <div class="card">
+      <h3>Population : observé &amp; projection 2035</h3>
+      <p class="cap">Millions d'habitants (Banque mondiale + projection au taux récent).</p>
+      <canvas id="chartPop" height="110"></canvas>
+    </div>
+  </div>
+</section>
+
+<section id="carte">
+  <div class="wrap">
+    <h2>Disparités régionales (EDS 2023)</h2>
+    <p class="lead">Cartes choroplèthes réelles des 14 régions.</p>
+    <figure style="margin:0;background:#fff;border:1px solid var(--line);border-radius:14px;overflow:hidden">
+      <img src="assets/06_cartes_regionales.png" alt="Cartes régionales" style="width:100%;display:block">
+    </figure>
+  </div>
+</section>
+
+<section id="galerie" style="background:#eef3f9">
+  <div class="wrap">
+    <h2>Visualisations clés</h2>
+    <div class="gallery">
+      <figure><img src="assets/03_population_age.png" alt=""><figcaption>Population & structure par âge</figcaption></figure>
+      <figure><img src="assets/04_pauvrete.png" alt=""><figcaption>Pauvreté & inégalités</figcaption></figure>
+      <figure><img src="assets/05_regions_bars.png" alt=""><figcaption>Disparités régionales (EDS 2023)</figcaption></figure>
+      <figure><img src="assets/07_education_fecondite.png" alt=""><figcaption>Éducation des femmes ↔ fécondité</figcaption></figure>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <p>Projet portfolio Data Analyst / BI · Données réelles
+       <a href="https://dhsprogram.com" target="_blank">DHS/EDS</a> &amp;
+       <a href="https://data.worldbank.org/country/senegal" target="_blank">Banque mondiale</a>.</p>
+    <p><a id="repoFoot" href="#" target="_blank">Voir le code source sur GitHub →</a></p>
+  </div>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+<script src="data.js"></script>
+<script>
+const D = window.PROJECT_DATA, K = D.kpi;
+const NAVY="#1F4E79", RED="#C0392B", GREEN="#27AE60", ORANGE="#E67E22", PURPLE="#8e44ad";
+const REPO = "https://github.com/kheuch1492/senegal-demographie";
+document.getElementById("repoBtn").href = REPO; document.getElementById("repoFoot").href = REPO;
+
+const kpis = [
+  {v:K.tfr_first+" → "+K.tfr_now, l:"Fécondité 1986 → 2023 (enfants/femme)", c:""},
+  {v:K.u5_first+" → "+K.u5_now+"‰", l:"Mortalité des moins de 5 ans", c:"green"},
+  {v:K.pov_now+"%", l:"Pauvreté nationale (2021)", c:"red"},
+  {v:K.young+"%", l:"Population de moins de 15 ans", c:""},
+  {v:K.corr, l:"Corr. éducation femmes ↔ fécondité", c:"green"},
+  {v:"≈"+K.pop_2035+" M", l:"Population projetée en 2035", c:""},
+];
+document.getElementById("kpiGrid").innerHTML = kpis.map(k=>
+  `<div class="kpi"><div class="v ${k.c}">${k.v}</div><div class="l">${k.l}</div></div>`).join("");
+
+const base = {responsive:true, interaction:{mode:"index",intersect:false},
+  plugins:{legend:{labels:{boxWidth:14}}}};
+
+new Chart(document.getElementById("chartTFR"), {type:"line",
+  data:{labels:D.tfr_x, datasets:[
+    {label:"Fécondité", data:D.tfr_y, borderColor:NAVY, backgroundColor:NAVY, tension:.25, borderWidth:2},
+    {label:"Seuil de renouvellement (2,1)", data:D.tfr_x.map(()=>2.1), borderColor:"#999", borderDash:[5,4], pointRadius:0, borderWidth:1},
+  ]}, options:{...base, scales:{y:{title:{display:true,text:"enfants/femme"}}}}});
+
+new Chart(document.getElementById("chartMort"), {type:"line",
+  data:{labels:D.u5_x, datasets:[
+    {label:"Moins de 5 ans", data:D.u5_y, borderColor:RED, tension:.2, borderWidth:2},
+    {label:"Infantile (<1 an)", data:D.im_y, borderColor:ORANGE, tension:.2, borderWidth:1.6},
+  ]}, options:{...base, scales:{y:{title:{display:true,text:"‰ naissances"}}}}});
+
+new Chart(document.getElementById("chartReg"), {type:"bar",
+  data:{labels:D.reg_labels, datasets:[{data:D.reg_tfr, backgroundColor:D.reg_tfr.map(v=>
+    v>=5?"#c0392b":v>=4.3?"#e67e22":"#27ae60")}]},
+  options:{...base, indexAxis:"y", plugins:{legend:{display:false}},
+    scales:{x:{title:{display:true,text:"enfants/femme"}}}}});
+
+// labels = historique complet + années de projection (sans doublon de l'année de jonction)
+const popLabels = D.pop_x.concat(D.proj_x.slice(1));
+const obsSeries = D.pop_y.concat(D.proj_x.slice(1).map(()=>null));
+const projSeries = D.pop_x.slice(0,-1).map(()=>null).concat(D.proj_y); // proj_y aligné sur proj_x (commence à l'année de jonction)
+new Chart(document.getElementById("chartPop"), {type:"line",
+  data:{labels:popLabels, datasets:[
+    {label:"Observé", data:obsSeries, borderColor:NAVY, tension:.2, borderWidth:2, pointRadius:0},
+    {label:"Projection", data:projSeries, borderColor:RED, borderDash:[6,4], borderWidth:2, pointRadius:0},
+  ]}, options:{...base, scales:{x:{ticks:{maxTicksLimit:12}}, y:{title:{display:true,text:"millions"}}}}});
+</script>
+</body>
+</html>

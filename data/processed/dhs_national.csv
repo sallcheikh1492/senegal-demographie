@@ -1,0 +1,203 @@
+﻿annee,code,indicateur,valeur
+1986,CM_ECMR_C_IMR,Mortalité infantile (‰),88.0
+1986,CM_ECMR_C_IMR,Mortalité infantile (‰),91.0
+1993,CM_ECMR_C_IMR,Mortalité infantile (‰),68.0
+1993,CM_ECMR_C_IMR,Mortalité infantile (‰),76.0
+1997,CM_ECMR_C_IMR,Mortalité infantile (‰),68.0
+1997,CM_ECMR_C_IMR,Mortalité infantile (‰),69.0
+2005,CM_ECMR_C_IMR,Mortalité infantile (‰),61.0
+2005,CM_ECMR_C_IMR,Mortalité infantile (‰),71.0
+2008,CM_ECMR_C_IMR,Mortalité infantile (‰),54.0
+2008,CM_ECMR_C_IMR,Mortalité infantile (‰),61.0
+2010,CM_ECMR_C_IMR,Mortalité infantile (‰),47.0
+2010,CM_ECMR_C_IMR,Mortalité infantile (‰),53.0
+2012,CM_ECMR_C_IMR,Mortalité infantile (‰),43.0
+2012,CM_ECMR_C_IMR,Mortalité infantile (‰),49.0
+2014,CM_ECMR_C_IMR,Mortalité infantile (‰),33.0
+2014,CM_ECMR_C_IMR,Mortalité infantile (‰),39.0
+2015,CM_ECMR_C_IMR,Mortalité infantile (‰),39.0
+2015,CM_ECMR_C_IMR,Mortalité infantile (‰),43.0
+2016,CM_ECMR_C_IMR,Mortalité infantile (‰),36.0
+2016,CM_ECMR_C_IMR,Mortalité infantile (‰),40.0
+2017,CM_ECMR_C_IMR,Mortalité infantile (‰),42.0
+2017,CM_ECMR_C_IMR,Mortalité infantile (‰),42.0
+2018,CM_ECMR_C_IMR,Mortalité infantile (‰),37.0
+2018,CM_ECMR_C_IMR,Mortalité infantile (‰),41.0
+2019,CM_ECMR_C_IMR,Mortalité infantile (‰),29.0
+2019,CM_ECMR_C_IMR,Mortalité infantile (‰),36.0
+2023,CM_ECMR_C_IMR,Mortalité infantile (‰),31.0
+2023,CM_ECMR_C_IMR,Mortalité infantile (‰),33.0
+1986,CM_ECMR_C_NNR,Mortalité néonatale (‰),46.0
+1986,CM_ECMR_C_NNR,Mortalité néonatale (‰),48.0
+1993,CM_ECMR_C_NNR,Mortalité néonatale (‰),35.0
+1993,CM_ECMR_C_NNR,Mortalité néonatale (‰),41.0
+1997,CM_ECMR_C_NNR,Mortalité néonatale (‰),37.0
+1997,CM_ECMR_C_NNR,Mortalité néonatale (‰),38.0
+2005,CM_ECMR_C_NNR,Mortalité néonatale (‰),35.0
+2005,CM_ECMR_C_NNR,Mortalité néonatale (‰),41.0
+2008,CM_ECMR_C_NNR,Mortalité néonatale (‰),33.0
+2008,CM_ECMR_C_NNR,Mortalité néonatale (‰),38.0
+2010,CM_ECMR_C_NNR,Mortalité néonatale (‰),29.0
+2010,CM_ECMR_C_NNR,Mortalité néonatale (‰),32.0
+2012,CM_ECMR_C_NNR,Mortalité néonatale (‰),26.0
+2012,CM_ECMR_C_NNR,Mortalité néonatale (‰),31.0
+2014,CM_ECMR_C_NNR,Mortalité néonatale (‰),19.0
+2014,CM_ECMR_C_NNR,Mortalité néonatale (‰),21.0
+2015,CM_ECMR_C_NNR,Mortalité néonatale (‰),23.0
+2015,CM_ECMR_C_NNR,Mortalité néonatale (‰),26.0
+2016,CM_ECMR_C_NNR,Mortalité néonatale (‰),21.0
+2016,CM_ECMR_C_NNR,Mortalité néonatale (‰),24.0
+2017,CM_ECMR_C_NNR,Mortalité néonatale (‰),28.0
+2017,CM_ECMR_C_NNR,Mortalité néonatale (‰),28.0
+2018,CM_ECMR_C_NNR,Mortalité néonatale (‰),23.0
+2018,CM_ECMR_C_NNR,Mortalité néonatale (‰),25.0
+2019,CM_ECMR_C_NNR,Mortalité néonatale (‰),21.0
+2019,CM_ECMR_C_NNR,Mortalité néonatale (‰),24.0
+2023,CM_ECMR_C_NNR,Mortalité néonatale (‰),23.0
+2023,CM_ECMR_C_NNR,Mortalité néonatale (‰),24.0
+1986,CM_ECMR_C_U5M,Mortalité des moins de 5 ans (‰),195.0
+1986,CM_ECMR_C_U5M,Mortalité des moins de 5 ans (‰),211.0
+1993,CM_ECMR_C_U5M,Mortalité des moins de 5 ans (‰),132.0
+1993,CM_ECMR_C_U5M,Mortalité des moins de 5 ans (‰),157.0
+1997,CM_ECMR_C_U5M,Mortalité des moins de 5 ans (‰),139.0
+1997,CM_ECMR_C_U5M,Mortalité des moins de 5 ans (‰),139.0
+2005,CM_ECMR_C_U5M,Mortalité des moins de 5 ans (‰),121.0
+2005,CM_ECMR_C_U5M,Mortalité des moins de 5 ans (‰),135.0
+2008,CM_ECMR_C_U5M,Mortalité des moins de 5 ans (‰),85.0
+2008,CM_ECMR_C_U5M,Mortalité des moins de 5 ans (‰),100.0
+2010,CM_ECMR_C_U5M,Mortalité des moins de 5 ans (‰),72.0
+2010,CM_ECMR_C_U5M,Mortalité des moins de 5 ans (‰),87.0
+2012,CM_ECMR_C_U5M,Mortalité des moins de 5 ans (‰),65.0
+2012,CM_ECMR_C_U5M,Mortalité des moins de 5 ans (‰),74.0
+2014,CM_ECMR_C_U5M,Mortalité des moins de 5 ans (‰),54.0
+2014,CM_ECMR_C_U5M,Mortalité des moins de 5 ans (‰),62.0
+2015,CM_ECMR_C_U5M,Mortalité des moins de 5 ans (‰),59.0
+2015,CM_ECMR_C_U5M,Mortalité des moins de 5 ans (‰),66.0
+2016,CM_ECMR_C_U5M,Mortalité des moins de 5 ans (‰),51.0
+2016,CM_ECMR_C_U5M,Mortalité des moins de 5 ans (‰),59.0
+2017,CM_ECMR_C_U5M,Mortalité des moins de 5 ans (‰),56.0
+2017,CM_ECMR_C_U5M,Mortalité des moins de 5 ans (‰),60.0
+2018,CM_ECMR_C_U5M,Mortalité des moins de 5 ans (‰),51.0
+2018,CM_ECMR_C_U5M,Mortalité des moins de 5 ans (‰),58.0
+2019,CM_ECMR_C_U5M,Mortalité des moins de 5 ans (‰),37.0
+2019,CM_ECMR_C_U5M,Mortalité des moins de 5 ans (‰),48.0
+2023,CM_ECMR_C_U5M,Mortalité des moins de 5 ans (‰),40.0
+2023,CM_ECMR_C_U5M,Mortalité des moins de 5 ans (‰),42.0
+1993,CN_NUTS_C_HA2,Retard de croissance / malnutrition chronique (%),29.5
+2005,CN_NUTS_C_HA2,Retard de croissance / malnutrition chronique (%),19.6
+2010,CN_NUTS_C_HA2,Retard de croissance / malnutrition chronique (%),26.5
+2012,CN_NUTS_C_HA2,Retard de croissance / malnutrition chronique (%),18.7
+2014,CN_NUTS_C_HA2,Retard de croissance / malnutrition chronique (%),18.7
+2015,CN_NUTS_C_HA2,Retard de croissance / malnutrition chronique (%),20.5
+2016,CN_NUTS_C_HA2,Retard de croissance / malnutrition chronique (%),17.0
+2017,CN_NUTS_C_HA2,Retard de croissance / malnutrition chronique (%),16.5
+2018,CN_NUTS_C_HA2,Retard de croissance / malnutrition chronique (%),18.8
+2019,CN_NUTS_C_HA2,Retard de croissance / malnutrition chronique (%),17.9
+2023,CN_NUTS_C_HA2,Retard de croissance / malnutrition chronique (%),17.5
+2005,ED_LITR_W_LIT,Alphabétisation des femmes (%),34.6
+2006,ED_LITR_W_LIT,Alphabétisation des femmes (%),31.8
+2008,ED_LITR_W_LIT,Alphabétisation des femmes (%),37.0
+2010,ED_LITR_W_LIT,Alphabétisation des femmes (%),37.8
+2012,ED_LITR_W_LIT,Alphabétisation des femmes (%),39.0
+2014,ED_LITR_W_LIT,Alphabétisation des femmes (%),40.8
+2015,ED_LITR_W_LIT,Alphabétisation des femmes (%),42.1
+2016,ED_LITR_W_LIT,Alphabétisation des femmes (%),44.9
+2017,ED_LITR_W_LIT,Alphabétisation des femmes (%),47.4
+2018,ED_LITR_W_LIT,Alphabétisation des femmes (%),48.7
+2019,ED_LITR_W_LIT,Alphabétisation des femmes (%),47.4
+2020,ED_LITR_W_LIT,Alphabétisation des femmes (%),47.3
+2023,ED_LITR_W_LIT,Alphabétisation des femmes (%),50.6
+1986,FE_FRTR_W_TFR,Indice de fécondité (enfants/femme),6.4
+1993,FE_FRTR_W_TFR,Indice de fécondité (enfants/femme),6.0
+1997,FE_FRTR_W_TFR,Indice de fécondité (enfants/femme),5.7
+2005,FE_FRTR_W_TFR,Indice de fécondité (enfants/femme),5.3
+2006,FE_FRTR_W_TFR,Indice de fécondité (enfants/femme),4.9
+2008,FE_FRTR_W_TFR,Indice de fécondité (enfants/femme),4.9
+2010,FE_FRTR_W_TFR,Indice de fécondité (enfants/femme),5.0
+2012,FE_FRTR_W_TFR,Indice de fécondité (enfants/femme),5.3
+2014,FE_FRTR_W_TFR,Indice de fécondité (enfants/femme),5.0
+2015,FE_FRTR_W_TFR,Indice de fécondité (enfants/femme),4.9
+2016,FE_FRTR_W_TFR,Indice de fécondité (enfants/femme),4.7
+2017,FE_FRTR_W_TFR,Indice de fécondité (enfants/femme),4.6
+2018,FE_FRTR_W_TFR,Indice de fécondité (enfants/femme),4.4
+2019,FE_FRTR_W_TFR,Indice de fécondité (enfants/femme),4.7
+2020,FE_FRTR_W_TFR,Indice de fécondité (enfants/femme),3.9
+2023,FE_FRTR_W_TFR,Indice de fécondité (enfants/femme),4.0
+1986,FP_CUSM_W_MOD,"Contraception moderne, femmes mariées (%)",2.4
+1993,FP_CUSM_W_MOD,"Contraception moderne, femmes mariées (%)",4.8
+1997,FP_CUSM_W_MOD,"Contraception moderne, femmes mariées (%)",8.1
+2005,FP_CUSM_W_MOD,"Contraception moderne, femmes mariées (%)",10.3
+2010,FP_CUSM_W_MOD,"Contraception moderne, femmes mariées (%)",12.1
+2012,FP_CUSM_W_MOD,"Contraception moderne, femmes mariées (%)",16.1
+2014,FP_CUSM_W_MOD,"Contraception moderne, femmes mariées (%)",20.3
+2015,FP_CUSM_W_MOD,"Contraception moderne, femmes mariées (%)",21.2
+2016,FP_CUSM_W_MOD,"Contraception moderne, femmes mariées (%)",23.1
+2017,FP_CUSM_W_MOD,"Contraception moderne, femmes mariées (%)",26.3
+2018,FP_CUSM_W_MOD,"Contraception moderne, femmes mariées (%)",25.4
+2019,FP_CUSM_W_MOD,"Contraception moderne, femmes mariées (%)",25.5
+2023,FP_CUSM_W_MOD,"Contraception moderne, femmes mariées (%)",25.6
+1993,HC_ELEC_H_ELC,Ménages avec électricité (%),26.0
+1997,HC_ELEC_H_ELC,Ménages avec électricité (%),32.2
+2005,HC_ELEC_H_ELC,Ménages avec électricité (%),47.1
+2006,HC_ELEC_H_ELC,Ménages avec électricité (%),49.9
+2008,HC_ELEC_H_ELC,Ménages avec électricité (%),53.5
+2010,HC_ELEC_H_ELC,Ménages avec électricité (%),56.5
+2012,HC_ELEC_H_ELC,Ménages avec électricité (%),57.0
+2014,HC_ELEC_H_ELC,Ménages avec électricité (%),61.0
+2015,HC_ELEC_H_ELC,Ménages avec électricité (%),60.5
+2016,HC_ELEC_H_ELC,Ménages avec électricité (%),64.5
+2017,HC_ELEC_H_ELC,Ménages avec électricité (%),63.3
+2018,HC_ELEC_H_ELC,Ménages avec électricité (%),67.5
+2019,HC_ELEC_H_ELC,Ménages avec électricité (%),70.3
+2020,HC_ELEC_H_ELC,Ménages avec électricité (%),67.3
+2023,HC_ELEC_H_ELC,Ménages avec électricité (%),77.0
+1993,RH_DELP_C_DHF,Accouchements en établissement de santé (%),47.5
+1993,RH_DELP_C_DHF,Accouchements en établissement de santé (%),46.9
+1993,RH_DELP_C_DHF,Accouchements en établissement de santé (%),47.0
+1997,RH_DELP_C_DHF,Accouchements en établissement de santé (%),48.4
+1997,RH_DELP_C_DHF,Accouchements en établissement de santé (%),48.0
+1997,RH_DELP_C_DHF,Accouchements en établissement de santé (%),48.6
+2005,RH_DELP_C_DHF,Accouchements en établissement de santé (%),63.6
+2005,RH_DELP_C_DHF,Accouchements en établissement de santé (%),61.8
+2005,RH_DELP_C_DHF,Accouchements en établissement de santé (%),63.1
+2010,RH_DELP_C_DHF,Accouchements en établissement de santé (%),72.9
+2010,RH_DELP_C_DHF,Accouchements en établissement de santé (%),72.8
+2010,RH_DELP_C_DHF,Accouchements en établissement de santé (%),72.9
+2012,RH_DELP_C_DHF,Accouchements en établissement de santé (%),72.4
+2012,RH_DELP_C_DHF,Accouchements en établissement de santé (%),71.3
+2012,RH_DELP_C_DHF,Accouchements en établissement de santé (%),72.6
+2014,RH_DELP_C_DHF,Accouchements en établissement de santé (%),77.9
+2014,RH_DELP_C_DHF,Accouchements en établissement de santé (%),76.9
+2014,RH_DELP_C_DHF,Accouchements en établissement de santé (%),77.8
+2015,RH_DELP_C_DHF,Accouchements en établissement de santé (%),75.4
+2015,RH_DELP_C_DHF,Accouchements en établissement de santé (%),74.5
+2015,RH_DELP_C_DHF,Accouchements en établissement de santé (%),74.9
+2016,RH_DELP_C_DHF,Accouchements en établissement de santé (%),77.1
+2016,RH_DELP_C_DHF,Accouchements en établissement de santé (%),75.9
+2016,RH_DELP_C_DHF,Accouchements en établissement de santé (%),77.1
+2017,RH_DELP_C_DHF,Accouchements en établissement de santé (%),79.8
+2017,RH_DELP_C_DHF,Accouchements en établissement de santé (%),78.2
+2017,RH_DELP_C_DHF,Accouchements en établissement de santé (%),80.3
+2018,RH_DELP_C_DHF,Accouchements en établissement de santé (%),83.0
+2018,RH_DELP_C_DHF,Accouchements en établissement de santé (%),81.7
+2018,RH_DELP_C_DHF,Accouchements en établissement de santé (%),84.4
+2019,RH_DELP_C_DHF,Accouchements en établissement de santé (%),82.4
+2019,RH_DELP_C_DHF,Accouchements en établissement de santé (%),80.3
+2019,RH_DELP_C_DHF,Accouchements en établissement de santé (%),83.1
+2023,RH_DELP_C_DHF,Accouchements en établissement de santé (%),92.1
+2023,RH_DELP_C_DHF,Accouchements en établissement de santé (%),92.3
+1993,WS_SRCE_H_IMP,Accès à une source d'eau améliorée (%),52.0
+1997,WS_SRCE_H_IMP,Accès à une source d'eau améliorée (%),53.3
+2005,WS_SRCE_H_IMP,Accès à une source d'eau améliorée (%),70.6
+2006,WS_SRCE_H_IMP,Accès à une source d'eau améliorée (%),73.1
+2008,WS_SRCE_H_IMP,Accès à une source d'eau améliorée (%),74.3
+2010,WS_SRCE_H_IMP,Accès à une source d'eau améliorée (%),79.7
+2012,WS_SRCE_H_IMP,Accès à une source d'eau améliorée (%),78.8
+2014,WS_SRCE_H_IMP,Accès à une source d'eau améliorée (%),83.7
+2015,WS_SRCE_H_IMP,Accès à une source d'eau améliorée (%),78.6
+2016,WS_SRCE_H_IMP,Accès à une source d'eau améliorée (%),85.6
+2017,WS_SRCE_H_IMP,Accès à une source d'eau améliorée (%),85.1
+2018,WS_SRCE_H_IMP,Accès à une source d'eau améliorée (%),85.6
+2019,WS_SRCE_H_IMP,Accès à une source d'eau améliorée (%),86.2
+2020,WS_SRCE_H_IMP,Accès à une source d'eau améliorée (%),88.7
+2023,WS_SRCE_H_IMP,Accès à une source d'eau améliorée (%),90.9

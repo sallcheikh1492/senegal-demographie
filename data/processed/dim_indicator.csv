@@ -1,0 +1,11 @@
+﻿code,indicateur,source
+CM_ECMR_C_IMR,Mortalité infantile (‰),DHS/EDS
+CM_ECMR_C_NNR,Mortalité néonatale (‰),DHS/EDS
+CM_ECMR_C_U5M,Mortalité des moins de 5 ans (‰),DHS/EDS
+CN_NUTS_C_HA2,Retard de croissance / malnutrition chronique (%),DHS/EDS
+ED_LITR_W_LIT,Alphabétisation des femmes (%),DHS/EDS
+FE_FRTR_W_TFR,Indice de fécondité (enfants/femme),DHS/EDS
+FP_CUSM_W_MOD,"Contraception moderne, femmes mariées (%)",DHS/EDS
+HC_ELEC_H_ELC,Ménages avec électricité (%),DHS/EDS
+RH_DELP_C_DHF,Accouchements en établissement de santé (%),DHS/EDS
+WS_SRCE_H_IMP,Accès à une source d'eau améliorée (%),DHS/EDS

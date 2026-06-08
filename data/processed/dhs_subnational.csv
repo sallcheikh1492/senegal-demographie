@@ -1,0 +1,155 @@
+﻿region,region_geo,code,indicateur,valeur
+Saint Louis,Saint Louis,FE_FRTR_W_TFR,Indice de fécondité (enfants/femme),3.6
+Louga,Louga,FE_FRTR_W_TFR,Indice de fécondité (enfants/femme),4.0
+Matam,Matam,FE_FRTR_W_TFR,Indice de fécondité (enfants/femme),4.5
+Dakar,Dakar,FE_FRTR_W_TFR,Indice de fécondité (enfants/femme),3.1
+Thiès,Thies,FE_FRTR_W_TFR,Indice de fécondité (enfants/femme),3.9
+Diourbel,Diourbel,FE_FRTR_W_TFR,Indice de fécondité (enfants/femme),4.1
+Fatick,Fatick,FE_FRTR_W_TFR,Indice de fécondité (enfants/femme),4.6
+Kaffrine,Kaffrine,FE_FRTR_W_TFR,Indice de fécondité (enfants/femme),6.0
+Kaolack,Kaolack,FE_FRTR_W_TFR,Indice de fécondité (enfants/femme),4.3
+Ziguinchor,Ziguinchor,FE_FRTR_W_TFR,Indice de fécondité (enfants/femme),3.7
+Sédhiou,Sedhiou,FE_FRTR_W_TFR,Indice de fécondité (enfants/femme),5.5
+Kolda,Kolda,FE_FRTR_W_TFR,Indice de fécondité (enfants/femme),4.9
+Kédougou,Kedougou,FE_FRTR_W_TFR,Indice de fécondité (enfants/femme),5.2
+Tambacounda,Tambacounda,FE_FRTR_W_TFR,Indice de fécondité (enfants/femme),4.4
+Saint Louis,Saint Louis,FP_CUSM_W_MOD,"Contraception moderne, femmes mariées (%)",31.2
+Louga,Louga,FP_CUSM_W_MOD,"Contraception moderne, femmes mariées (%)",15.8
+Matam,Matam,FP_CUSM_W_MOD,"Contraception moderne, femmes mariées (%)",10.9
+Dakar,Dakar,FP_CUSM_W_MOD,"Contraception moderne, femmes mariées (%)",36.4
+Thiès,Thies,FP_CUSM_W_MOD,"Contraception moderne, femmes mariées (%)",33.3
+Diourbel,Diourbel,FP_CUSM_W_MOD,"Contraception moderne, femmes mariées (%)",16.6
+Fatick,Fatick,FP_CUSM_W_MOD,"Contraception moderne, femmes mariées (%)",27.1
+Kaffrine,Kaffrine,FP_CUSM_W_MOD,"Contraception moderne, femmes mariées (%)",25.5
+Kaolack,Kaolack,FP_CUSM_W_MOD,"Contraception moderne, femmes mariées (%)",24.0
+Ziguinchor,Ziguinchor,FP_CUSM_W_MOD,"Contraception moderne, femmes mariées (%)",23.3
+Sédhiou,Sedhiou,FP_CUSM_W_MOD,"Contraception moderne, femmes mariées (%)",18.0
+Kolda,Kolda,FP_CUSM_W_MOD,"Contraception moderne, femmes mariées (%)",22.4
+Kédougou,Kedougou,FP_CUSM_W_MOD,"Contraception moderne, femmes mariées (%)",18.0
+Tambacounda,Tambacounda,FP_CUSM_W_MOD,"Contraception moderne, femmes mariées (%)",8.0
+Saint Louis,Saint Louis,CM_ECMR_C_NNR,Mortalité néonatale (‰),19.0
+Louga,Louga,CM_ECMR_C_NNR,Mortalité néonatale (‰),34.0
+Matam,Matam,CM_ECMR_C_NNR,Mortalité néonatale (‰),26.0
+Dakar,Dakar,CM_ECMR_C_NNR,Mortalité néonatale (‰),16.0
+Thiès,Thies,CM_ECMR_C_NNR,Mortalité néonatale (‰),24.0
+Diourbel,Diourbel,CM_ECMR_C_NNR,Mortalité néonatale (‰),30.0
+Fatick,Fatick,CM_ECMR_C_NNR,Mortalité néonatale (‰),22.0
+Kaffrine,Kaffrine,CM_ECMR_C_NNR,Mortalité néonatale (‰),34.0
+Kaolack,Kaolack,CM_ECMR_C_NNR,Mortalité néonatale (‰),11.0
+Ziguinchor,Ziguinchor,CM_ECMR_C_NNR,Mortalité néonatale (‰),9.0
+Sédhiou,Sedhiou,CM_ECMR_C_NNR,Mortalité néonatale (‰),40.0
+Kolda,Kolda,CM_ECMR_C_NNR,Mortalité néonatale (‰),39.0
+Kédougou,Kedougou,CM_ECMR_C_NNR,Mortalité néonatale (‰),30.0
+Tambacounda,Tambacounda,CM_ECMR_C_NNR,Mortalité néonatale (‰),29.0
+Saint Louis,Saint Louis,CM_ECMR_C_IMR,Mortalité infantile (‰),27.0
+Louga,Louga,CM_ECMR_C_IMR,Mortalité infantile (‰),43.0
+Matam,Matam,CM_ECMR_C_IMR,Mortalité infantile (‰),41.0
+Dakar,Dakar,CM_ECMR_C_IMR,Mortalité infantile (‰),20.0
+Thiès,Thies,CM_ECMR_C_IMR,Mortalité infantile (‰),32.0
+Diourbel,Diourbel,CM_ECMR_C_IMR,Mortalité infantile (‰),39.0
+Fatick,Fatick,CM_ECMR_C_IMR,Mortalité infantile (‰),25.0
+Kaffrine,Kaffrine,CM_ECMR_C_IMR,Mortalité infantile (‰),44.0
+Kaolack,Kaolack,CM_ECMR_C_IMR,Mortalité infantile (‰),19.0
+Ziguinchor,Ziguinchor,CM_ECMR_C_IMR,Mortalité infantile (‰),17.0
+Sédhiou,Sedhiou,CM_ECMR_C_IMR,Mortalité infantile (‰),58.0
+Kolda,Kolda,CM_ECMR_C_IMR,Mortalité infantile (‰),54.0
+Kédougou,Kedougou,CM_ECMR_C_IMR,Mortalité infantile (‰),43.0
+Tambacounda,Tambacounda,CM_ECMR_C_IMR,Mortalité infantile (‰),39.0
+Saint Louis,Saint Louis,CM_ECMR_C_U5M,Mortalité des moins de 5 ans (‰),31.0
+Louga,Louga,CM_ECMR_C_U5M,Mortalité des moins de 5 ans (‰),53.0
+Matam,Matam,CM_ECMR_C_U5M,Mortalité des moins de 5 ans (‰),49.0
+Dakar,Dakar,CM_ECMR_C_U5M,Mortalité des moins de 5 ans (‰),25.0
+Thiès,Thies,CM_ECMR_C_U5M,Mortalité des moins de 5 ans (‰),38.0
+Diourbel,Diourbel,CM_ECMR_C_U5M,Mortalité des moins de 5 ans (‰),52.0
+Fatick,Fatick,CM_ECMR_C_U5M,Mortalité des moins de 5 ans (‰),36.0
+Kaffrine,Kaffrine,CM_ECMR_C_U5M,Mortalité des moins de 5 ans (‰),62.0
+Kaolack,Kaolack,CM_ECMR_C_U5M,Mortalité des moins de 5 ans (‰),29.0
+Ziguinchor,Ziguinchor,CM_ECMR_C_U5M,Mortalité des moins de 5 ans (‰),20.0
+Sédhiou,Sedhiou,CM_ECMR_C_U5M,Mortalité des moins de 5 ans (‰),71.0
+Kolda,Kolda,CM_ECMR_C_U5M,Mortalité des moins de 5 ans (‰),77.0
+Kédougou,Kedougou,CM_ECMR_C_U5M,Mortalité des moins de 5 ans (‰),63.0
+Tambacounda,Tambacounda,CM_ECMR_C_U5M,Mortalité des moins de 5 ans (‰),52.0
+Saint Louis,Saint Louis,RH_DELP_C_DHF,Accouchements en établissement de santé (%),85.3
+Saint Louis,Saint Louis,RH_DELP_C_DHF,Accouchements en établissement de santé (%),85.9
+Louga,Louga,RH_DELP_C_DHF,Accouchements en établissement de santé (%),94.4
+Louga,Louga,RH_DELP_C_DHF,Accouchements en établissement de santé (%),93.8
+Matam,Matam,RH_DELP_C_DHF,Accouchements en établissement de santé (%),80.3
+Matam,Matam,RH_DELP_C_DHF,Accouchements en établissement de santé (%),81.7
+Dakar,Dakar,RH_DELP_C_DHF,Accouchements en établissement de santé (%),98.5
+Dakar,Dakar,RH_DELP_C_DHF,Accouchements en établissement de santé (%),98.9
+Thiès,Thies,RH_DELP_C_DHF,Accouchements en établissement de santé (%),96.9
+Thiès,Thies,RH_DELP_C_DHF,Accouchements en établissement de santé (%),97.3
+Diourbel,Diourbel,RH_DELP_C_DHF,Accouchements en établissement de santé (%),93.9
+Diourbel,Diourbel,RH_DELP_C_DHF,Accouchements en établissement de santé (%),94.2
+Fatick,Fatick,RH_DELP_C_DHF,Accouchements en établissement de santé (%),92.4
+Fatick,Fatick,RH_DELP_C_DHF,Accouchements en établissement de santé (%),91.5
+Kaffrine,Kaffrine,RH_DELP_C_DHF,Accouchements en établissement de santé (%),84.3
+Kaffrine,Kaffrine,RH_DELP_C_DHF,Accouchements en établissement de santé (%),85.4
+Kaolack,Kaolack,RH_DELP_C_DHF,Accouchements en établissement de santé (%),93.4
+Kaolack,Kaolack,RH_DELP_C_DHF,Accouchements en établissement de santé (%),93.1
+Ziguinchor,Ziguinchor,RH_DELP_C_DHF,Accouchements en établissement de santé (%),97.1
+Ziguinchor,Ziguinchor,RH_DELP_C_DHF,Accouchements en établissement de santé (%),96.3
+Sédhiou,Sedhiou,RH_DELP_C_DHF,Accouchements en établissement de santé (%),81.4
+Sédhiou,Sedhiou,RH_DELP_C_DHF,Accouchements en établissement de santé (%),81.6
+Kolda,Kolda,RH_DELP_C_DHF,Accouchements en établissement de santé (%),88.5
+Kolda,Kolda,RH_DELP_C_DHF,Accouchements en établissement de santé (%),88.5
+Kédougou,Kedougou,RH_DELP_C_DHF,Accouchements en établissement de santé (%),85.9
+Kédougou,Kedougou,RH_DELP_C_DHF,Accouchements en établissement de santé (%),87.6
+Tambacounda,Tambacounda,RH_DELP_C_DHF,Accouchements en établissement de santé (%),83.8
+Tambacounda,Tambacounda,RH_DELP_C_DHF,Accouchements en établissement de santé (%),85.6
+Saint Louis,Saint Louis,CN_NUTS_C_HA2,Retard de croissance / malnutrition chronique (%),22.9
+Louga,Louga,CN_NUTS_C_HA2,Retard de croissance / malnutrition chronique (%),18.0
+Matam,Matam,CN_NUTS_C_HA2,Retard de croissance / malnutrition chronique (%),25.3
+Dakar,Dakar,CN_NUTS_C_HA2,Retard de croissance / malnutrition chronique (%),10.4
+Thiès,Thies,CN_NUTS_C_HA2,Retard de croissance / malnutrition chronique (%),15.9
+Diourbel,Diourbel,CN_NUTS_C_HA2,Retard de croissance / malnutrition chronique (%),17.5
+Fatick,Fatick,CN_NUTS_C_HA2,Retard de croissance / malnutrition chronique (%),15.9
+Kaffrine,Kaffrine,CN_NUTS_C_HA2,Retard de croissance / malnutrition chronique (%),28.4
+Kaolack,Kaolack,CN_NUTS_C_HA2,Retard de croissance / malnutrition chronique (%),14.6
+Ziguinchor,Ziguinchor,CN_NUTS_C_HA2,Retard de croissance / malnutrition chronique (%),10.3
+Sédhiou,Sedhiou,CN_NUTS_C_HA2,Retard de croissance / malnutrition chronique (%),24.5
+Kolda,Kolda,CN_NUTS_C_HA2,Retard de croissance / malnutrition chronique (%),17.9
+Kédougou,Kedougou,CN_NUTS_C_HA2,Retard de croissance / malnutrition chronique (%),21.3
+Tambacounda,Tambacounda,CN_NUTS_C_HA2,Retard de croissance / malnutrition chronique (%),23.5
+Saint Louis,Saint Louis,ED_LITR_W_LIT,Alphabétisation des femmes (%),47.0
+Louga,Louga,ED_LITR_W_LIT,Alphabétisation des femmes (%),42.0
+Matam,Matam,ED_LITR_W_LIT,Alphabétisation des femmes (%),36.2
+Dakar,Dakar,ED_LITR_W_LIT,Alphabétisation des femmes (%),68.9
+Thiès,Thies,ED_LITR_W_LIT,Alphabétisation des femmes (%),57.1
+Diourbel,Diourbel,ED_LITR_W_LIT,Alphabétisation des femmes (%),30.7
+Fatick,Fatick,ED_LITR_W_LIT,Alphabétisation des femmes (%),52.9
+Kaffrine,Kaffrine,ED_LITR_W_LIT,Alphabétisation des femmes (%),22.3
+Kaolack,Kaolack,ED_LITR_W_LIT,Alphabétisation des femmes (%),44.5
+Ziguinchor,Ziguinchor,ED_LITR_W_LIT,Alphabétisation des femmes (%),75.6
+Sédhiou,Sedhiou,ED_LITR_W_LIT,Alphabétisation des femmes (%),38.2
+Kolda,Kolda,ED_LITR_W_LIT,Alphabétisation des femmes (%),37.5
+Kédougou,Kedougou,ED_LITR_W_LIT,Alphabétisation des femmes (%),50.2
+Tambacounda,Tambacounda,ED_LITR_W_LIT,Alphabétisation des femmes (%),31.1
+Saint Louis,Saint Louis,WS_SRCE_H_IMP,Accès à une source d'eau améliorée (%),89.8
+Louga,Louga,WS_SRCE_H_IMP,Accès à une source d'eau améliorée (%),99.7
+Matam,Matam,WS_SRCE_H_IMP,Accès à une source d'eau améliorée (%),94.4
+Dakar,Dakar,WS_SRCE_H_IMP,Accès à une source d'eau améliorée (%),99.9
+Thiès,Thies,WS_SRCE_H_IMP,Accès à une source d'eau améliorée (%),96.2
+Diourbel,Diourbel,WS_SRCE_H_IMP,Accès à une source d'eau améliorée (%),99.4
+Fatick,Fatick,WS_SRCE_H_IMP,Accès à une source d'eau améliorée (%),82.4
+Kaffrine,Kaffrine,WS_SRCE_H_IMP,Accès à une source d'eau améliorée (%),96.5
+Kaolack,Kaolack,WS_SRCE_H_IMP,Accès à une source d'eau améliorée (%),96.9
+Ziguinchor,Ziguinchor,WS_SRCE_H_IMP,Accès à une source d'eau améliorée (%),71.3
+Sédhiou,Sedhiou,WS_SRCE_H_IMP,Accès à une source d'eau améliorée (%),45.0
+Kolda,Kolda,WS_SRCE_H_IMP,Accès à une source d'eau améliorée (%),41.6
+Kédougou,Kedougou,WS_SRCE_H_IMP,Accès à une source d'eau améliorée (%),85.8
+Tambacounda,Tambacounda,WS_SRCE_H_IMP,Accès à une source d'eau améliorée (%),79.4
+Saint Louis,Saint Louis,HC_ELEC_H_ELC,Ménages avec électricité (%),64.9
+Louga,Louga,HC_ELEC_H_ELC,Ménages avec électricité (%),68.5
+Matam,Matam,HC_ELEC_H_ELC,Ménages avec électricité (%),51.8
+Dakar,Dakar,HC_ELEC_H_ELC,Ménages avec électricité (%),98.2
+Thiès,Thies,HC_ELEC_H_ELC,Ménages avec électricité (%),92.2
+Diourbel,Diourbel,HC_ELEC_H_ELC,Ménages avec électricité (%),87.0
+Fatick,Fatick,HC_ELEC_H_ELC,Ménages avec électricité (%),55.7
+Kaffrine,Kaffrine,HC_ELEC_H_ELC,Ménages avec électricité (%),47.4
+Kaolack,Kaolack,HC_ELEC_H_ELC,Ménages avec électricité (%),74.7
+Ziguinchor,Ziguinchor,HC_ELEC_H_ELC,Ménages avec électricité (%),66.6
+Sédhiou,Sedhiou,HC_ELEC_H_ELC,Ménages avec électricité (%),45.6
+Kolda,Kolda,HC_ELEC_H_ELC,Ménages avec électricité (%),39.6
+Kédougou,Kedougou,HC_ELEC_H_ELC,Ménages avec électricité (%),42.1
+Tambacounda,Tambacounda,HC_ELEC_H_ELC,Ménages avec électricité (%),45.4

@@ -1,0 +1,536 @@
+﻿code,indicateur,annee,valeur
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",1960,295.3
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",1961,295.4
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",1962,296.0
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",1963,296.8
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",1964,297.3
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",1965,297.4
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",1966,296.9
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",1967,295.9
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",1968,294.3
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",1969,291.9
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",1970,288.3
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",1971,283.5
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",1972,277.3
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",1973,270.1
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",1974,261.9
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",1975,252.7
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",1976,242.2
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",1977,231.3
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",1978,221.1
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",1979,212.0
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",1980,204.2
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",1981,197.6
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",1982,191.7
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",1983,185.7
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",1984,178.9
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",1985,171.1
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",1986,162.6
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",1987,154.3
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",1988,146.9
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",1989,141.2
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",1990,137.2
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",1991,135.2
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",1992,134.6
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",1993,135.0
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",1994,136.0
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",1995,137.0
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",1996,137.8
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",1997,137.9
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",1998,136.7
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",1999,133.8
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",2000,128.9
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",2001,121.7
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",2002,113.2
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",2003,104.2
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",2004,95.5
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",2005,87.6
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",2006,80.8
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",2007,75.0
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",2008,70.1
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",2009,66.1
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",2010,62.8
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",2011,60.0
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",2012,57.6
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",2013,55.5
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",2014,53.7
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",2015,52.2
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",2016,50.8
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",2017,49.4
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",2018,47.9
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",2019,46.2
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",2020,44.2
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",2021,42.2
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",2022,40.1
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",2023,38.2
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",2024,36.5
+SI.POV.DDAY,"Pauvreté extrême à 2,15 $/j (%)",1991,77.3
+SI.POV.DDAY,"Pauvreté extrême à 2,15 $/j (%)",1994,72.2
+SI.POV.DDAY,"Pauvreté extrême à 2,15 $/j (%)",2001,63.9
+SI.POV.DDAY,"Pauvreté extrême à 2,15 $/j (%)",2005,53.6
+SI.POV.DDAY,"Pauvreté extrême à 2,15 $/j (%)",2011,53.3
+SI.POV.DDAY,"Pauvreté extrême à 2,15 $/j (%)",2018,19.1
+SI.POV.DDAY,"Pauvreté extrême à 2,15 $/j (%)",2021,17.9
+SI.POV.GINI,Indice de Gini,1991,54.0
+SI.POV.GINI,Indice de Gini,1994,39.2
+SI.POV.GINI,Indice de Gini,2001,41.2
+SI.POV.GINI,Indice de Gini,2005,39.2
+SI.POV.GINI,Indice de Gini,2011,40.3
+SI.POV.GINI,Indice de Gini,2018,38.3
+SI.POV.GINI,Indice de Gini,2021,36.2
+SI.POV.NAHC,Taux de pauvreté national (%),2018,37.8
+SI.POV.NAHC,Taux de pauvreté national (%),2021,37.5
+SP.DYN.LE00.IN,Espérance de vie (ans),1960,39.668
+SP.DYN.LE00.IN,Espérance de vie (ans),1961,39.715
+SP.DYN.LE00.IN,Espérance de vie (ans),1962,39.738
+SP.DYN.LE00.IN,Espérance de vie (ans),1963,39.745
+SP.DYN.LE00.IN,Espérance de vie (ans),1964,39.755
+SP.DYN.LE00.IN,Espérance de vie (ans),1965,39.761
+SP.DYN.LE00.IN,Espérance de vie (ans),1966,39.848
+SP.DYN.LE00.IN,Espérance de vie (ans),1967,39.992
+SP.DYN.LE00.IN,Espérance de vie (ans),1968,40.15
+SP.DYN.LE00.IN,Espérance de vie (ans),1969,40.398
+SP.DYN.LE00.IN,Espérance de vie (ans),1970,40.789
+SP.DYN.LE00.IN,Espérance de vie (ans),1971,41.243
+SP.DYN.LE00.IN,Espérance de vie (ans),1972,41.77
+SP.DYN.LE00.IN,Espérance de vie (ans),1973,42.429
+SP.DYN.LE00.IN,Espérance de vie (ans),1974,43.104
+SP.DYN.LE00.IN,Espérance de vie (ans),1975,43.938
+SP.DYN.LE00.IN,Espérance de vie (ans),1976,44.809
+SP.DYN.LE00.IN,Espérance de vie (ans),1977,45.714
+SP.DYN.LE00.IN,Espérance de vie (ans),1978,46.596
+SP.DYN.LE00.IN,Espérance de vie (ans),1979,47.478
+SP.DYN.LE00.IN,Espérance de vie (ans),1980,48.294
+SP.DYN.LE00.IN,Espérance de vie (ans),1981,49.083
+SP.DYN.LE00.IN,Espérance de vie (ans),1982,49.863
+SP.DYN.LE00.IN,Espérance de vie (ans),1983,50.811
+SP.DYN.LE00.IN,Espérance de vie (ans),1984,51.694
+SP.DYN.LE00.IN,Espérance de vie (ans),1985,52.586
+SP.DYN.LE00.IN,Espérance de vie (ans),1986,53.718
+SP.DYN.LE00.IN,Espérance de vie (ans),1987,54.632
+SP.DYN.LE00.IN,Espérance de vie (ans),1988,55.546
+SP.DYN.LE00.IN,Espérance de vie (ans),1989,56.209
+SP.DYN.LE00.IN,Espérance de vie (ans),1990,56.674
+SP.DYN.LE00.IN,Espérance de vie (ans),1991,57.037
+SP.DYN.LE00.IN,Espérance de vie (ans),1992,57.287
+SP.DYN.LE00.IN,Espérance de vie (ans),1993,57.348
+SP.DYN.LE00.IN,Espérance de vie (ans),1994,57.479
+SP.DYN.LE00.IN,Espérance de vie (ans),1995,57.336
+SP.DYN.LE00.IN,Espérance de vie (ans),1996,57.129
+SP.DYN.LE00.IN,Espérance de vie (ans),1997,57.107
+SP.DYN.LE00.IN,Espérance de vie (ans),1998,57.076
+SP.DYN.LE00.IN,Espérance de vie (ans),1999,57.315
+SP.DYN.LE00.IN,Espérance de vie (ans),2000,57.615
+SP.DYN.LE00.IN,Espérance de vie (ans),2001,58.158
+SP.DYN.LE00.IN,Espérance de vie (ans),2002,58.912
+SP.DYN.LE00.IN,Espérance de vie (ans),2003,59.474
+SP.DYN.LE00.IN,Espérance de vie (ans),2004,60.308
+SP.DYN.LE00.IN,Espérance de vie (ans),2005,60.98
+SP.DYN.LE00.IN,Espérance de vie (ans),2006,61.801
+SP.DYN.LE00.IN,Espérance de vie (ans),2007,62.653
+SP.DYN.LE00.IN,Espérance de vie (ans),2008,63.201
+SP.DYN.LE00.IN,Espérance de vie (ans),2009,63.751
+SP.DYN.LE00.IN,Espérance de vie (ans),2010,64.221
+SP.DYN.LE00.IN,Espérance de vie (ans),2011,64.799
+SP.DYN.LE00.IN,Espérance de vie (ans),2012,65.229
+SP.DYN.LE00.IN,Espérance de vie (ans),2013,65.638
+SP.DYN.LE00.IN,Espérance de vie (ans),2014,66.001
+SP.DYN.LE00.IN,Espérance de vie (ans),2015,66.451
+SP.DYN.LE00.IN,Espérance de vie (ans),2016,66.724
+SP.DYN.LE00.IN,Espérance de vie (ans),2017,67.059
+SP.DYN.LE00.IN,Espérance de vie (ans),2018,67.379
+SP.DYN.LE00.IN,Espérance de vie (ans),2019,67.668
+SP.DYN.LE00.IN,Espérance de vie (ans),2020,67.496
+SP.DYN.LE00.IN,Espérance de vie (ans),2021,66.868
+SP.DYN.LE00.IN,Espérance de vie (ans),2022,67.788
+SP.DYN.LE00.IN,Espérance de vie (ans),2023,68.683
+SP.DYN.LE00.IN,Espérance de vie (ans),2024,68.924
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),1960,44.1649528107188
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),1961,44.2555745516715
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),1962,44.2917922141044
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),1963,44.3211561228771
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),1964,44.3473802079943
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),1965,44.3485329581785
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),1966,44.3249361362501
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),1967,44.2888608109465
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),1968,44.2482538984632
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),1969,44.2138227603929
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),1970,44.1931430241065
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),1971,44.1913211689872
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),1972,44.2152441022134
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),1973,44.2693775593348
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),1974,44.3728095212247
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),1975,44.5565491673451
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),1976,44.8280876738123
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),1977,45.1957138358346
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),1978,45.611592758854
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),1979,46.0027009091611
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),1980,46.3521860231509
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),1981,46.6537122026332
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),1982,46.9024166305422
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),1983,47.0998753420031
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),1984,47.2448571310098
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),1985,47.3156358028344
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),1986,47.2925806665473
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),1987,47.1968171287266
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),1988,47.0466490836694
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),1989,46.8508231544946
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),1990,46.6252933900981
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),1991,46.3648695689395
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),1992,46.0696807634792
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),1993,45.7573600237009
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),1994,45.4456522772637
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),1995,45.1481679515186
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),1996,44.8691156757892
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),1997,44.6123846676279
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),1998,44.3735851764799
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),1999,44.1520233458676
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),2000,43.9460296982623
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),2001,43.7481432872134
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),2002,43.4774838351289
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),2003,43.2249783046188
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),2004,43.076328266673
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),2005,42.9441771560643
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),2006,42.8317393391854
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),2007,42.7468408207458
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),2008,42.6917462330148
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),2009,42.6694983841395
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),2010,42.6730350117181
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),2011,42.6848690395822
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),2012,42.7005059804502
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),2013,42.6806757189143
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),2014,42.5669714141041
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),2015,42.3643492484461
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),2016,42.0962643936666
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),2017,41.7561348863197
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),2018,41.338892959775
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),2019,40.8595094154888
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),2020,40.3310678021691
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),2021,39.7622761897608
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),2022,39.1603034665879
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),2023,38.6295981592884
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),2024,38.1823663294065
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),1960,53.0106495032636
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),1961,52.9488487141246
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),1962,52.9360524617954
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),1963,52.925505032968
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),1964,52.9149502791779
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),1965,52.9274988648726
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),1966,52.9628567370927
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),1967,53.0084821505092
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),1968,53.0569477164765
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),1969,53.0979831825962
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),1970,53.1236009898513
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),1971,53.1286995878192
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),1972,53.1068268605072
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),1973,53.0530652859193
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),1974,52.9483618146524
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),1975,52.7614048862751
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),1976,52.4838216590986
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),1977,52.1069209965753
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),1978,51.6787289875454
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),1979,51.2729018571183
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),1980,50.9071379377238
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),1981,50.5885660388779
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),1982,50.3219201810763
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),1983,50.1048936011425
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),1984,49.9383516555121
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),1985,49.8439203526588
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),1986,49.8406994163583
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),1987,49.9079330379217
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),1988,50.0274842934156
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),1989,50.190860515503
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),1990,50.3838470528486
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),1991,50.6119914365766
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),1992,50.8746699933096
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),1993,51.1554064817337
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),1994,51.4371391353371
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),1995,51.7065695791673
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),1996,51.9605241593318
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),1997,52.1958540398848
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),1998,52.417348840655
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),1999,52.6264306635151
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),2000,52.8249714594122
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),2001,53.0174654864387
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),2002,53.2451801577915
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),2003,53.4347071627217
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),2004,53.5395472791747
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),2005,53.6341463892216
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),2006,53.713480354444
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),2007,53.7671819008511
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),2008,53.7929417802816
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),2009,53.7877179685264
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),2010,53.7588147597081
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),2011,53.7310989404075
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),2012,53.7078017649908
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),2013,53.7401403808036
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),2014,53.8844213348809
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),2015,54.1120274086851
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),2016,54.3968395932547
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),2017,54.7454841926833
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),2018,55.161731926394
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),2019,55.629971072753
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),2020,56.1414662545808
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),2021,56.694618125052
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),2022,57.2763044893002
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),2023,57.780014004645
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),2024,58.1999109338785
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),1960,2.8243976860176
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),1961,2.79557673420392
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),1962,2.77215532410017
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),1963,2.75333884415491
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),1964,2.73766951282778
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),1965,2.72396817694896
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),1966,2.7122071266572
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),1967,2.70265703854432
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),1968,2.69479838506032
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),1969,2.68819405701096
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),1970,2.68325598604222
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),1971,2.67997924319363
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),1972,2.67792903727948
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),1973,2.67755715474587
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),1974,2.67882866412284
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),1975,2.68204594637977
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),1976,2.68809066708913
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),1977,2.69736516759018
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),1978,2.70967825360067
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),1979,2.72439723372053
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),1980,2.74067603912524
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),1981,2.75772175848887
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),1982,2.77566318838141
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),1983,2.79523105685442
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),1984,2.81679121347806
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),1985,2.84044384450674
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),1986,2.86671991709449
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),1987,2.8952498333517
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),1988,2.92586662291495
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),1989,2.95831633000238
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),1990,2.99085955705332
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),1991,3.02313899448388
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),1992,3.05564924321118
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),1993,3.08723349456531
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),1994,3.11720858739914
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),1995,3.14526246931404
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),1996,3.17036016487898
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),1997,3.19176129248737
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),1998,3.20906598286511
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),1999,3.2215459906173
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),2000,3.22899884232554
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),2001,3.2343912263479
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),2002,3.27733600707954
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),2003,3.34031453265948
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),2004,3.38412445415235
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),2005,3.42167645471414
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),2006,3.45478030637053
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),2007,3.48597727840313
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),2008,3.51531198670358
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),2009,3.54278364733413
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),2010,3.56815022857386
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),2011,3.58403202001035
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),2012,3.59169225455899
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),2013,3.57918390028218
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),2014,3.54860725101498
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),2015,3.52362334286885
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),2016,3.5068960130787
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),2017,3.498380920997
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),2018,3.49937511383095
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),2019,3.51051951175819
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),2020,3.52746594325007
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),2021,3.54310568518721
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),2022,3.56339204411192
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),2023,3.5903878360666
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),2024,3.61772273671508
+SP.POP.GROW,Croissance démographique (%),1961,2.81748096900715
+SP.POP.GROW,Croissance démographique (%),1962,2.82073326778007
+SP.POP.GROW,Croissance démographique (%),1963,2.82256029455455
+SP.POP.GROW,Croissance démographique (%),1964,2.8378577001018
+SP.POP.GROW,Croissance démographique (%),1965,2.87894325241237
+SP.POP.GROW,Croissance démographique (%),1966,2.93109606343671
+SP.POP.GROW,Croissance démographique (%),1967,2.9716025775211
+SP.POP.GROW,Croissance démographique (%),1968,2.98442559728274
+SP.POP.GROW,Croissance démographique (%),1969,2.98262882904199
+SP.POP.GROW,Croissance démographique (%),1970,2.98509819973603
+SP.POP.GROW,Croissance démographique (%),1971,2.98948442892748
+SP.POP.GROW,Croissance démographique (%),1972,2.99197305396704
+SP.POP.GROW,Croissance démographique (%),1973,2.98251676613151
+SP.POP.GROW,Croissance démographique (%),1974,2.91017124088259
+SP.POP.GROW,Croissance démographique (%),1975,2.77212999447369
+SP.POP.GROW,Croissance démographique (%),1976,2.6292016172694
+SP.POP.GROW,Croissance démographique (%),1977,2.43747874841247
+SP.POP.GROW,Croissance démographique (%),1978,2.3357011243472
+SP.POP.GROW,Croissance démographique (%),1979,2.39207763796717
+SP.POP.GROW,Croissance démographique (%),1980,2.47218014471202
+SP.POP.GROW,Croissance démographique (%),1981,2.55902817475478
+SP.POP.GROW,Croissance démographique (%),1982,2.62972878181791
+SP.POP.GROW,Croissance démographique (%),1983,2.68483009110068
+SP.POP.GROW,Croissance démographique (%),1984,2.72727133941746
+SP.POP.GROW,Croissance démographique (%),1985,2.79056064316103
+SP.POP.GROW,Croissance démographique (%),1986,2.87458943199436
+SP.POP.GROW,Croissance démographique (%),1987,2.91341593418838
+SP.POP.GROW,Croissance démographique (%),1988,2.89611580449774
+SP.POP.GROW,Croissance démographique (%),1989,2.87460998220746
+SP.POP.GROW,Croissance démographique (%),1990,2.86848639350223
+SP.POP.GROW,Croissance démographique (%),1991,2.84196309841074
+SP.POP.GROW,Croissance démographique (%),1992,2.79707003044845
+SP.POP.GROW,Croissance démographique (%),1993,2.75172642740774
+SP.POP.GROW,Croissance démographique (%),1994,2.67683552339622
+SP.POP.GROW,Croissance démographique (%),1995,2.56448010712284
+SP.POP.GROW,Croissance démographique (%),1996,2.44401329997373
+SP.POP.GROW,Croissance démographique (%),1997,2.35950995516652
+SP.POP.GROW,Croissance démographique (%),1998,2.33643949046346
+SP.POP.GROW,Croissance démographique (%),1999,2.37025662196919
+SP.POP.GROW,Croissance démographique (%),2000,2.41009917724256
+SP.POP.GROW,Croissance démographique (%),2001,2.42496943712898
+SP.POP.GROW,Croissance démographique (%),2002,2.44966153599012
+SP.POP.GROW,Croissance démographique (%),2003,2.40684962152091
+SP.POP.GROW,Croissance démographique (%),2004,2.34632515714346
+SP.POP.GROW,Croissance démographique (%),2005,2.33918136359556
+SP.POP.GROW,Croissance démographique (%),2006,2.32792929230269
+SP.POP.GROW,Croissance démographique (%),2007,2.32279384441662
+SP.POP.GROW,Croissance démographique (%),2008,2.3395118470328
+SP.POP.GROW,Croissance démographique (%),2009,2.36561415953051
+SP.POP.GROW,Croissance démographique (%),2010,2.38690195279185
+SP.POP.GROW,Croissance démographique (%),2011,2.52791519909846
+SP.POP.GROW,Croissance démographique (%),2012,2.67702425205872
+SP.POP.GROW,Croissance démographique (%),2013,2.96345954605318
+SP.POP.GROW,Croissance démographique (%),2014,3.16757470346908
+SP.POP.GROW,Croissance démographique (%),2015,3.07014792428801
+SP.POP.GROW,Croissance démographique (%),2016,2.97843134010735
+SP.POP.GROW,Croissance démographique (%),2017,2.88769908740551
+SP.POP.GROW,Croissance démographique (%),2018,2.8004569855314
+SP.POP.GROW,Croissance démographique (%),2019,2.71760793051867
+SP.POP.GROW,Croissance démographique (%),2020,2.63303572524896
+SP.POP.GROW,Croissance démographique (%),2021,2.53848919398481
+SP.POP.GROW,Croissance démographique (%),2022,2.46764281803509
+SP.POP.GROW,Croissance démographique (%),2023,2.38738348832592
+SP.POP.GROW,Croissance démographique (%),2024,2.32058603495657
+SP.POP.TOTL,Population totale,1960,3340907.0
+SP.POP.TOTL,Population totale,1961,3436375.0
+SP.POP.TOTL,Population totale,1962,3534686.0
+SP.POP.TOTL,Population totale,1963,3635876.0
+SP.POP.TOTL,Population totale,1964,3740535.0
+SP.POP.TOTL,Population totale,1965,3849788.0
+SP.POP.TOTL,Population totale,1966,3964299.0
+SP.POP.TOTL,Population totale,1967,4083870.0
+SP.POP.TOTL,Population totale,1968,4207587.0
+SP.POP.TOTL,Population totale,1969,4334974.0
+SP.POP.TOTL,Population totale,1970,4466328.0
+SP.POP.TOTL,Population totale,1971,4601864.0
+SP.POP.TOTL,Population totale,1972,4741631.0
+SP.POP.TOTL,Population totale,1973,4885181.0
+SP.POP.TOTL,Population totale,1974,5029437.0
+SP.POP.TOTL,Population totale,1975,5170810.0
+SP.POP.TOTL,Population totale,1976,5308564.0
+SP.POP.TOTL,Population totale,1977,5439549.0
+SP.POP.TOTL,Population totale,1978,5568096.0
+SP.POP.TOTL,Population totale,1979,5702895.0
+SP.POP.TOTL,Population totale,1980,5845638.0
+SP.POP.TOTL,Population totale,1981,5997160.0
+SP.POP.TOTL,Population totale,1982,6156961.0
+SP.POP.TOTL,Population totale,1983,6324504.0
+SP.POP.TOTL,Population totale,1984,6499364.0
+SP.POP.TOTL,Population totale,1985,6683287.0
+SP.POP.TOTL,Population totale,1986,6878192.0
+SP.POP.TOTL,Population totale,1987,7081530.0
+SP.POP.TOTL,Population totale,1988,7289618.0
+SP.POP.TOTL,Population totale,1989,7502207.0
+SP.POP.TOTL,Population totale,1990,7720523.0
+SP.POP.TOTL,Population totale,1991,7943085.0
+SP.POP.TOTL,Population totale,1992,8168395.0
+SP.POP.TOTL,Population totale,1993,8396288.0
+SP.POP.TOTL,Population totale,1994,8624078.0
+SP.POP.TOTL,Population totale,1995,8848101.0
+SP.POP.TOTL,Population totale,1996,9067014.0
+SP.POP.TOTL,Population totale,1997,9283495.0
+SP.POP.TOTL,Population totale,1998,9502952.0
+SP.POP.TOTL,Population totale,1999,9730887.0
+SP.POP.TOTL,Population totale,2000,9968260.0
+SP.POP.TOTL,Population totale,2001,10212942.0
+SP.POP.TOTL,Population totale,2002,10466214.0
+SP.POP.TOTL,Population totale,2003,10721176.0
+SP.POP.TOTL,Population totale,2004,10975704.0
+SP.POP.TOTL,Population totale,2005,11235472.0
+SP.POP.TOTL,Population totale,2006,11500094.0
+SP.POP.TOTL,Population totale,2007,11770344.0
+SP.POP.TOTL,Population totale,2008,12048959.0
+SP.POP.TOTL,Population totale,2009,12337389.0
+SP.POP.TOTL,Population totale,2010,12635413.0
+SP.POP.TOTL,Population totale,2011,12958897.0
+SP.POP.TOTL,Population totale,2012,13310495.0
+SP.POP.TOTL,Population totale,2013,13710849.0
+SP.POP.TOTL,Population totale,2014,14152102.0
+SP.POP.TOTL,Population totale,2015,14593331.0
+SP.POP.TOTL,Population totale,2016,15034521.0
+SP.POP.TOTL,Population totale,2017,15475002.0
+SP.POP.TOTL,Population totale,2018,15914498.0
+SP.POP.TOTL,Population totale,2019,16352922.0
+SP.POP.TOTL,Population totale,2020,16789219.0
+SP.POP.TOTL,Population totale,2021,17220867.0
+SP.POP.TOTL,Population totale,2022,17651103.0
+SP.POP.TOTL,Population totale,2023,18077573.0
+SP.POP.TOTL,Population totale,2024,18501984.0
+SP.URB.TOTL.IN.ZS,Population urbaine (%),1960,22.6143820537868
+SP.URB.TOTL.IN.ZS,Population urbaine (%),1961,22.8452558149389
+SP.URB.TOTL.IN.ZS,Population urbaine (%),1962,23.3384454983395
+SP.URB.TOTL.IN.ZS,Population urbaine (%),1963,24.0754335379086
+SP.URB.TOTL.IN.ZS,Population urbaine (%),1964,24.999368992554
+SP.URB.TOTL.IN.ZS,Population urbaine (%),1965,26.0534009211832
+SP.URB.TOTL.IN.ZS,Population urbaine (%),1966,27.180678382704
+SP.URB.TOTL.IN.ZS,Population urbaine (%),1967,28.3243504360241
+SP.URB.TOTL.IN.ZS,Population urbaine (%),1968,29.427566140051
+SP.URB.TOTL.IN.ZS,Population urbaine (%),1969,30.4334745536924
+SP.URB.TOTL.IN.ZS,Population urbaine (%),1970,31.285224735856
+SP.URB.TOTL.IN.ZS,Population urbaine (%),1971,31.9442434147881
+SP.URB.TOTL.IN.ZS,Population urbaine (%),1972,32.5068747527782
+SP.URB.TOTL.IN.ZS,Population urbaine (%),1973,33.0227731241423
+SP.URB.TOTL.IN.ZS,Population urbaine (%),1974,33.4982797776148
+SP.URB.TOTL.IN.ZS,Population urbaine (%),1975,33.9429165602491
+SP.URB.TOTL.IN.ZS,Population urbaine (%),1976,34.36651179273
+SP.URB.TOTL.IN.ZS,Population urbaine (%),1977,34.7794251098707
+SP.URB.TOTL.IN.ZS,Population urbaine (%),1978,35.1840286724051
+SP.URB.TOTL.IN.ZS,Population urbaine (%),1979,35.5789615992574
+SP.URB.TOTL.IN.ZS,Population urbaine (%),1980,35.963042872512
+SP.URB.TOTL.IN.ZS,Population urbaine (%),1981,36.3350914742532
+SP.URB.TOTL.IN.ZS,Population urbaine (%),1982,36.6939263865655
+SP.URB.TOTL.IN.ZS,Population urbaine (%),1983,37.0383665915331
+SP.URB.TOTL.IN.ZS,Population urbaine (%),1984,37.3672310712406
+SP.URB.TOTL.IN.ZS,Population urbaine (%),1985,37.6793388077723
+SP.URB.TOTL.IN.ZS,Population urbaine (%),1986,37.9735087832125
+SP.URB.TOTL.IN.ZS,Population urbaine (%),1987,38.2485599796457
+SP.URB.TOTL.IN.ZS,Population urbaine (%),1988,38.5031519344395
+SP.URB.TOTL.IN.ZS,Population urbaine (%),1989,38.7355083854582
+SP.URB.TOTL.IN.ZS,Population urbaine (%),1990,38.9466557465895
+SP.URB.TOTL.IN.ZS,Population urbaine (%),1991,39.1402262390545
+SP.URB.TOTL.IN.ZS,Population urbaine (%),1992,39.3197068566225
+SP.URB.TOTL.IN.ZS,Population urbaine (%),1993,39.4885845930629
+SP.URB.TOTL.IN.ZS,Population urbaine (%),1994,39.6503464421449
+SP.URB.TOTL.IN.ZS,Population urbaine (%),1995,39.808479397638
+SP.URB.TOTL.IN.ZS,Population urbaine (%),1996,39.9664704533115
+SP.URB.TOTL.IN.ZS,Population urbaine (%),1997,40.1278066029348
+SP.URB.TOTL.IN.ZS,Population urbaine (%),1998,40.2959748402772
+SP.URB.TOTL.IN.ZS,Population urbaine (%),1999,40.474462159108
+SP.URB.TOTL.IN.ZS,Population urbaine (%),2000,40.6667555531967
+SP.URB.TOTL.IN.ZS,Population urbaine (%),2001,40.8763420163126
+SP.URB.TOTL.IN.ZS,Population urbaine (%),2002,41.1081471561292
+SP.URB.TOTL.IN.ZS,Population urbaine (%),2003,41.35893934855
+SP.URB.TOTL.IN.ZS,Population urbaine (%),2004,41.6248193895895
+SP.URB.TOTL.IN.ZS,Population urbaine (%),2005,41.9057599695838
+SP.URB.TOTL.IN.ZS,Population urbaine (%),2006,42.2046413043069
+SP.URB.TOTL.IN.ZS,Population urbaine (%),2007,42.524343609533
+SP.URB.TOTL.IN.ZS,Population urbaine (%),2008,42.867747101036
+SP.URB.TOTL.IN.ZS,Population urbaine (%),2009,43.23773199459
+SP.URB.TOTL.IN.ZS,Population urbaine (%),2010,43.6371785059692
+SP.URB.TOTL.IN.ZS,Population urbaine (%),2011,44.0689668509475
+SP.URB.TOTL.IN.ZS,Population urbaine (%),2012,44.5359772452989
+SP.URB.TOTL.IN.ZS,Population urbaine (%),2013,45.0398750539456
+SP.URB.TOTL.IN.ZS,Population urbaine (%),2014,45.6020905341588
+SP.URB.TOTL.IN.ZS,Population urbaine (%),2015,46.2747669629858
+SP.URB.TOTL.IN.ZS,Population urbaine (%),2016,47.0553579909929
+SP.URB.TOTL.IN.ZS,Population urbaine (%),2017,47.9338349639053
+SP.URB.TOTL.IN.ZS,Population urbaine (%),2018,48.9001692274485
+SP.URB.TOTL.IN.ZS,Population urbaine (%),2019,49.9443321273477
+SP.URB.TOTL.IN.ZS,Population urbaine (%),2020,51.0562950093282
+SP.URB.TOTL.IN.ZS,Population urbaine (%),2021,52.2260292191155
+SP.URB.TOTL.IN.ZS,Population urbaine (%),2022,53.4435061024348
+SP.URB.TOTL.IN.ZS,Population urbaine (%),2023,54.6992276190794
+SP.URB.TOTL.IN.ZS,Population urbaine (%),2024,55.2368169057304
