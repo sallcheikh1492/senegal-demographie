@@ -76,7 +76,8 @@ senegal-demographie/
 │   ├── 02_analyse_exploratoire.ipynb      # EDA + 3 cartes choroplèthes
 │   └── 03_tendances_projection.ipynb      # projection fécondité & population
 ├── sql/                            # schéma + 10 requêtes analytiques
-├── scripts/                        # download_data · _build_notebooks · build_site · run_all
+├── powerbi/                        # tables prêtes + mesures DAX + guide de dashboard
+├── scripts/                        # download_data · _build_notebooks · build_site · build_powerbi · run_all
 ├── reports/figures/                # 9 graphiques (dont cartes)
 ├── docs/                           # site web (GitHub Pages)
 └── README.md
@@ -99,7 +100,15 @@ python scripts/run_all.py     # télécharge les données réelles -> notebooks 
 Acquisition via **APIs** (DHS, Banque mondiale) · nettoyage de données
 hiérarchiques (régions) · indicateurs démographiques & de santé · **analyse
 géospatiale** (cartes choroplèthes) · analyse de corrélation · projection de
-tendances · **SQL** analytique · data storytelling · pipeline reproductible.
+tendances · **SQL** analytique · **Power BI** (modèle en étoile + DAX) ·
+data storytelling · pipeline reproductible.
+
+## 📊 Dashboard Power BI
+
+Tables prêtes à l'emploi, mesures DAX et guide de construction pas-à-pas dans
+[`powerbi/`](powerbi/README_powerbi.md) — modèle en étoile (`faits_national`,
+`faits_regional`, `dim_indicateur`, `dim_region` avec centroïdes, `dim_annee`),
+KPI, cartes choroplèthes régionales et segments interactifs.
 
 ---
 

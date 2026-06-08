@@ -1,0 +1,90 @@
+/* =====================================================================
+   MESURES DAX — Dashboard « Démographie & conditions de vie au Sénégal »
+   À coller dans Power BI Desktop (clic droit sur la table > Nouvelle mesure).
+   Modèle attendu (voir README_powerbi.md) :
+     faits_national[annee, code, valeur, source]
+     faits_regional[region_geo, code, valeur]
+     dim_indicateur[code, indicateur, source, categorie, sens_positif]
+     dim_region[region, region_geo, region_map, latitude, longitude]
+     dim_annee[annee, decennie]
+   ===================================================================== */
+
+/* --- Mesures génériques (pilotées par le slicer « indicateur ») --------- */
+
+Valeur nationale = SUM ( faits_national[valeur] )
+
+Valeur régionale = SUM ( faits_regional[valeur] )
+
+Année max =
+CALCULATE ( MAX ( faits_national[annee] ), faits_national[valeur] <> BLANK () )
+
+Valeur (dernière année) =
+VAR ymax =
+    CALCULATE ( MAX ( faits_national[annee] ), faits_national[valeur] <> BLANK () )
+RETURN
+    CALCULATE ( SUM ( faits_national[valeur] ), faits_national[annee] = ymax )
+
+Valeur (première année) =
+VAR ymin =
+    CALCULATE ( MIN ( faits_national[annee] ), faits_national[valeur] <> BLANK () )
+RETURN
+    CALCULATE ( SUM ( faits_national[valeur] ), faits_national[annee] = ymin )
+
+Évolution depuis 1re mesure (%) =
+DIVIDE (
+    [Valeur (dernière année)] - [Valeur (première année)],
+    [Valeur (première année)]
+) * 100
+
+/* Écart entre régions (pour l'indicateur sélectionné, EDS 2023) */
+Écart régional (max - min) =
+MAXX ( VALUES ( dim_region[region_geo] ), [Valeur régionale] )
+    - MINX ( VALUES ( dim_region[region_geo] ), [Valeur régionale] )
+
+Région la plus élevée =
+VAR t = ADDCOLUMNS ( VALUES ( dim_region[region] ), "v", [Valeur régionale] )
+RETURN MAXX ( TOPN ( 1, t, [v], DESC ), dim_region[region] )
+
+Région la plus basse =
+VAR t = ADDCOLUMNS ( VALUES ( dim_region[region] ), "v", [Valeur régionale] )
+RETURN MINX ( TOPN ( 1, t, [v], ASC ), dim_region[region] )
+
+/* --- KPI dédiés (cartes d'en-tête, indépendants du slicer) -------------- */
+
+KPI Fécondité (dernier) =
+VAR y = CALCULATE ( MAX ( faits_national[annee] ), faits_national[code] = "FE_FRTR_W_TFR" )
+RETURN CALCULATE ( SUM ( faits_national[valeur] ),
+    faits_national[code] = "FE_FRTR_W_TFR", faits_national[annee] = y )
+
+KPI Mortalité -5 ans (dernier) =
+VAR y = CALCULATE ( MAX ( faits_national[annee] ), faits_national[code] = "CM_ECMR_C_U5M" )
+RETURN CALCULATE ( SUM ( faits_national[valeur] ),
+    faits_national[code] = "CM_ECMR_C_U5M", faits_national[annee] = y )
+
+KPI Pauvreté (%) =
+VAR y = CALCULATE ( MAX ( faits_national[annee] ), faits_national[code] = "SI.POV.NAHC" )
+RETURN CALCULATE ( SUM ( faits_national[valeur] ),
+    faits_national[code] = "SI.POV.NAHC", faits_national[annee] = y )
+
+KPI Population (millions) =
+VAR y = CALCULATE ( MAX ( faits_national[annee] ), faits_national[code] = "SP.POP.TOTL" )
+RETURN DIVIDE (
+    CALCULATE ( SUM ( faits_national[valeur] ),
+        faits_national[code] = "SP.POP.TOTL", faits_national[annee] = y ),
+    1000000 )
+
+KPI Part des moins de 15 ans (%) =
+VAR y = CALCULATE ( MAX ( faits_national[annee] ), faits_national[code] = "SP.POP.0014.TO.ZS" )
+RETURN CALCULATE ( SUM ( faits_national[valeur] ),
+    faits_national[code] = "SP.POP.0014.TO.ZS", faits_national[annee] = y )
+
+KPI Alphabétisation femmes (%) =
+VAR y = CALCULATE ( MAX ( faits_national[annee] ), faits_national[code] = "ED_LITR_W_LIT" )
+RETURN CALCULATE ( SUM ( faits_national[valeur] ),
+    faits_national[code] = "ED_LITR_W_LIT", faits_national[annee] = y )
+
+/* --- Mise en forme conditionnelle (cartes/tableaux régionaux) ----------- */
+/* Couleur : vert si « sens positif » (plus = mieux), rouge sinon.
+   À utiliser dans Format > Couleur de l'arrière-plan > f(x) > basé sur ce champ. */
+Couleur indicateur =
+IF ( SELECTEDVALUE ( dim_indicateur[sens_positif] ) = TRUE (), "#27AE60", "#C0392B" )

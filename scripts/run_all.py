@@ -10,4 +10,5 @@ for nb in ["01_acquisition_preparation", "02_analyse_exploratoire", "03_tendance
     run([PY, "-m", "jupyter", "nbconvert", "--to", "notebook", "--execute", "--inplace",
          "--ExecutePreprocessor.timeout=600", nb + ".ipynb"], cwd=os.path.join(BASE, "notebooks"))
 run([PY, os.path.join("scripts", "build_site.py")])
+run([PY, os.path.join("scripts", "build_powerbi.py")])
 print("\n✅ Pipeline terminé.")

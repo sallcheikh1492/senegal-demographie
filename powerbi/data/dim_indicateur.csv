@@ -1,0 +1,22 @@
+﻿code,indicateur,source,categorie,sens_positif
+CM_ECMR_C_IMR,Mortalité infantile (‰),EDS/DHS,Santé,False
+CM_ECMR_C_NNR,Mortalité néonatale (‰),EDS/DHS,Santé,False
+CM_ECMR_C_U5M,Mortalité des moins de 5 ans (‰),EDS/DHS,Santé,False
+CN_NUTS_C_HA2,Retard de croissance / malnutrition chronique (%),EDS/DHS,Santé,False
+ED_LITR_W_LIT,Alphabétisation des femmes (%),EDS/DHS,Éducation,True
+FE_FRTR_W_TFR,Indice de fécondité (enfants/femme),EDS/DHS,Démographie,False
+FP_CUSM_W_MOD,"Contraception moderne, femmes mariées (%)",EDS/DHS,Santé,True
+HC_ELEC_H_ELC,Ménages avec électricité (%),EDS/DHS,Conditions de vie,True
+RH_DELP_C_DHF,Accouchements en établissement de santé (%),EDS/DHS,Santé,True
+WS_SRCE_H_IMP,Accès à une source d'eau améliorée (%),EDS/DHS,Conditions de vie,True
+SH.DYN.MORT,"Mortalité des moins de 5 ans, BM (‰)",Banque mondiale,Santé,False
+SI.POV.DDAY,"Pauvreté extrême à 2,15 $/j (%)",Banque mondiale,Pauvreté,False
+SI.POV.GINI,Indice de Gini,Banque mondiale,Pauvreté,False
+SI.POV.NAHC,Taux de pauvreté national (%),Banque mondiale,Pauvreté,False
+SP.DYN.LE00.IN,Espérance de vie (ans),Banque mondiale,Démographie,True
+SP.POP.0014.TO.ZS,Part des 0-14 ans (%),Banque mondiale,Démographie,True
+SP.POP.1564.TO.ZS,Part des 15-64 ans (%),Banque mondiale,Démographie,True
+SP.POP.65UP.TO.ZS,Part des 65 ans et + (%),Banque mondiale,Démographie,True
+SP.POP.GROW,Croissance démographique (%),Banque mondiale,Démographie,True
+SP.POP.TOTL,Population totale,Banque mondiale,Démographie,True
+SP.URB.TOTL.IN.ZS,Population urbaine (%),Banque mondiale,Démographie,True
