@@ -11,9 +11,9 @@
 ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-336791)
 ![Maps](https://img.shields.io/badge/Cartographie-choroplèthe-blueviolet)
 
-### 🌍 [**Voir le site web du projet (démo en ligne)**](https://kheuch1492.github.io/senegal-demographie/)
+### 🌍 [**Voir le site web du projet (démo en ligne)**](https://sallcheikh1492.github.io/senegal-demographie/)
 
-[![Aperçu du site](docs/assets/site_hero.png)](https://kheuch1492.github.io/senegal-demographie/)
+[![Aperçu du site](docs/assets/site_hero.png)](https://sallcheikh1492.github.io/senegal-demographie/)
 
 > *Tableau de bord interactif (graphiques alimentés par les données réelles) :*
 
